@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Adlan</h1>
+<h1 align="center">Hi 👋, I'm Akash Adlan </h1>
 <h3 align="center">A passionate Android developer Engineer from India</h3>
 
 - 🌱 I’m currently learning **Android Development**
